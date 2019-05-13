@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iTunesSearch</string>
+    <string name="search">Search</string>
+    <string name="artistname">ArtistName</string>
+    <string name="album">Album</string>
+    <string name="_1999">1999</string>
+    <string name="_9_99">$9.99</string>
+</resources>
